@@ -45,7 +45,7 @@
 <setting id="org.eclipse.wst.jsdt.core.formatter.brace_position_for_annotation_type_declaration" value="end_of_line"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_comma_in_enum_constant_arguments" value="do not insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_closing_paren_in_switch" value="do not insert"/>
-<setting id="org.eclipse.wst.jsdt.core.formatter.alignment_for_assignment" value="16"/>
+<setting id="org.eclipse.wst.jsdt.core.formatter.alignment_for_assignment" value="0"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_after_opening_paren_in_for" value="do not insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_after_opening_paren_in_enum_constant" value="do not insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.alignment_for_multiple_fields" value="16"/>
@@ -164,7 +164,7 @@
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_comma_in_method_invocation_arguments" value="do not insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_comma_in_constructor_declaration_parameters" value="do not insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_colon_in_conditional" value="insert"/>
-<setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_colon_in_object_initializer" value="do not insert"/>
+<setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_colon_in_object_initializer" value="insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_opening_bracket_in_array_reference" value="do not insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_before_comma_in_superinterfaces" value="do not insert"/>
 <setting id="org.eclipse.wst.jsdt.core.formatter.insert_space_after_comma_in_type_parameters" value="insert"/>
